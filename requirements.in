@@ -1,0 +1,5 @@
+fastapi==0.76.0
+pip-tools==6.8.0
+redis==4.3.4
+uvicorn==0.17.6
+orjson==3.7.5
